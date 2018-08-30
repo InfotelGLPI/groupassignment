@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-26 10:29+0200\n"
+"PO-Revision-Date: 2016-08-26 10:29+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: setup.php:49 inc/profile.class.php:51 inc/profile.class.php:131
+msgid "Ticket group assignment"
+msgstr "Ticket group assignment"
+
+#: setup.php:60
+msgid "This plugin requires GLPI 0.85 or higher"
+msgstr "This plugin requires GLPI 0.85 or higher"
+
+#: inc/profilegroup.class.php:97
+msgid "Group list"
+msgstr "Group list"
+
+#: inc/profilegroup.class.php:128
+msgid "No group is added to the list"
+msgstr "No group is added to the list"
