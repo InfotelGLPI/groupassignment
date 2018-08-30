@@ -1,4 +1,4 @@
-#GroupAssignment
+# GroupAssignment
 
 Plugin GroupAssignment for GLPI
 
